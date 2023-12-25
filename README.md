@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://djole-zr.github.io/FM-Blog-preview-card/
 
 ### Screenshot
 
